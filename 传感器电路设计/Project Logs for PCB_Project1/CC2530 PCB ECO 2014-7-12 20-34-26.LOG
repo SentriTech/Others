@@ -1,0 +1,7 @@
+Change Component Comment : Designator=D3 Old Comment=LED1 New Comment=LED2
+Change Component Library : Designator=D3 Old Library=Miscellaneous Devices.IntLib New Library=·¬ÇÑ·ÅµçÆ÷.SCHLIB
+Added Pin To Net: NetName=VCC 5V Pin=D3-A
+Added Pin To Net: NetName=NetD3_K Pin=D3-K
+Added Pin To Net: NetName=NetD3_K Pin=R6-2
+Added Net: Name=NetD3_K
+Added Room: Name=CC2530

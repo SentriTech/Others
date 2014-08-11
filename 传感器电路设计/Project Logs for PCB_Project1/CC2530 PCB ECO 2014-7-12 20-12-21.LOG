@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=P5 NewDesignator=P7
+Added Member To Class: ClassName=CC2530 Member=Component P2 VOICE READ
+Added Member To Class: ClassName=CC2530 Member=Component P3 Pyroelectric
+Added Member To Class: ClassName=CC2530 Member=Component P7 USB
+Added Room: Name=CC2530

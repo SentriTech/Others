@@ -1,0 +1,19 @@
+Remove Pin=P2-2 From Net=P06
+Remove Pin=P2-4 From Net=P21
+Remove Pin=P2-7 From Net=RST
+Remove Pin=P3-2 From Net=P07
+Remove Pin=P3-3 From Net=P20
+Remove Pin=P3-4 From Net=P17
+Remove Pin=P3-5 From Net=P16
+Remove Pin=P3-6 From Net=P15
+Remove Pin=P3-7 From Net=P14
+Remove Pin=P3-8 From Net=P13
+Remove Pin=P3-9 From Net=P12
+Remove Pin=P3-10 From Net=P11
+Remove Pin=P3-11 From Net=P10
+Remove Pin=P3-12 From Net=P07
+Change Component Footprint: Designator=C2 Old Footprint=0805C New Footprint=RAD-0.3
+Change Component Footprint: Designator=C3 Old Footprint=0805C New Footprint=RAD-0.3
+Change Pin Designator/Name:  Old Designator=P2-2 Old Name=2 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=P3-1 Old Name=1 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=P3-2 Old Name=2 New Designator =2 New Name=2
